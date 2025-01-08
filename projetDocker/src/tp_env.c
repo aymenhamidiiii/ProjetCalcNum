@@ -31,5 +31,5 @@ int main(int argc,char *argv[])
     printf("y[%d] = %lf\n",ii,y[ii]);
   }
 
-  printf("\n\n--------- End -----------\n");
+  printf("\n\n------------ End -------------\n");
 }
